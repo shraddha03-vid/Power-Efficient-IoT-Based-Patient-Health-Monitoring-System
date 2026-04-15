@@ -3,6 +3,8 @@ Developed an embedded IoT system using Embedded C and microcontroller programmin
 
 Methodology :
 
+<img width="749" height="445" alt="image" src="https://github.com/user-attachments/assets/c5bb2f43-2367-46c9-a251-2fc558396ff3" />
+
 1. DHT22 Sensor (Room Temperature & Humidity):
 This sensor measures the surrounding environmental temperature and humidity. These
 readings help in understanding how the room’s condition might affect the patient’s
@@ -32,3 +34,10 @@ The dashboard displays all sensor readings—heart rate, SpO2, body temperature,
 room temperature/humidity—in an organized and user-friendly format. Users can
 monitor the patient’s vital signs remotely through any Wi-Fi-enabled device such as a
 smartphone or computer.
+
+
+https://github.com/user-attachments/assets/5423c101-629a-4770-b447-9ef815977158
+
+
+
+
